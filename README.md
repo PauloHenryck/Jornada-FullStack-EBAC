@@ -23,7 +23,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://yata-apix-f8bae68a-c2be-4671-85c4-7256866ac329.s3-object.locaweb.com.br/1aef0b78cd9f41bea0bed92348f1dd64.png"  />
+  <img height="200" src="https://uploaddeimagens.com.br/images/004/414/345/original/Captura_de_tela_2023-03-31_203939.png"  />
 </div>
 
 ###
