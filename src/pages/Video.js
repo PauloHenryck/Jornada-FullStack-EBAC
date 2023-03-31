@@ -1,6 +1,6 @@
 import React, { useRef, useState } from "react";
 import VideoFooter from "./components/footer/VideoFooter";
-import VideoSidebar from "./components/footer/sidebar/VideoSidebar";
+import VideoSidebar from "./components/sidebar/VideoSidebar";
 import "./video.css";
 
 function Video({likes,messages,shares,name,description,music,url}) {
