@@ -23,7 +23,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://uploaddeimagens.com.br/images/004/414/345/original/Captura_de_tela_2023-03-31_203939.png"  />
+  <img height="600" src="https://uploaddeimagens.com.br/images/004/414/345/original/Captura_de_tela_2023-03-31_203939.png"  />
 </div>
 
 ###
