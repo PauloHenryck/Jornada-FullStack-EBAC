@@ -16,6 +16,8 @@
 
 <p align="left">Link para acessar o projeto: https://jornada-dev.netlify.app/</p>
 
+<p align="left">Link para acessar o deploy Firebase: https://tiktok---jornada-8fbfc.web.app/</p>
+
 ###
 
 <h2 align="left">📸 Captura de tela</h2>
