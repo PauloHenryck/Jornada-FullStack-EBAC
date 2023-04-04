@@ -7,6 +7,7 @@
 ###
 
 <p align="left">Este projeto foi proposto na Jornada Fullstack realizada pela EBAC com o objetivo de aperfeiçoar habilidades técnicas em JavaScript, ReactJS, HTML5 e CSS3. Durante a imersão de 8 dias, foram apresentadas às tecnologias e ferramentas necessárias para a criação do projeto. Utilizando ReactJS, para criação do front-end com componentes de vídeo e rodapé, sidebar e backend para integração com um banco de dados. Também foi aplicado o conceito de responsividade e design para mobile.
+
 O projeto foi finalizado com a integração do banco de dados no Firebase e a criação de um repositório no Github.</p>
 
 ###
